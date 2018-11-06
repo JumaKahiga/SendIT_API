@@ -1,0 +1,9 @@
+language:
+  - "python"
+
+env:
+  - CODECOV_TOKEN = ""
+
+python:
+  -"3.6"
+
